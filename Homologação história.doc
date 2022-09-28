@@ -1,0 +1,599 @@
+Date: Wed, 28 Sep 2022 20:14:51 +0000 (UTC)
+Message-ID: <260740210.11.1664396091318@125c672b654a>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_10_744796580.1664396091318"
+
+------=_Part_10_744796580.1664396091318
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Homologa=C3=A7=C3=A3o hist=C3=B3ria</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Homologa=C3=A7=C3=A3o hist=C3=B3ria</h1>
+    <div class=3D"Section1">
+        <style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1664396091307 {padding: 0px;}
+div.rbtoc1664396091307 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1664396091307 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style>
+<div class=3D"toc-macro rbtoc1664396091307">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Story:">Story:</a></li>=
+=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Objetivo:">Objetivo:</a>=
+</li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Regras:">Regras:</a></li=
+>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Requirementcriteria:">Re=
+quirement criteria:</a></li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Partitioning:">Partition=
+ing:</a></li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-RequirementTraceabilityM=
+atrix(RTM):">Requirement Traceability Matrix (RTM):</a></li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Bugsfound:">Bugs found:<=
+/a></li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Rangeofseverityandoccurr=
+ance:">Range of severity and occurrance:</a></li>=20
+<li><a href=3D"#Homologa=C3=A7=C3=A3ohist=C3=B3ria-Attachments:">Attachment=
+s:</a></li>=20
+</ul>=20
+</div>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Story:"><img class=3D"emoticon=
+ emoticon-blue-star" data-emoji-id=3D"1f4d6" data-emoji-shortname=3D":book:=
+" data-emoji-fallback=3D"=F0=9F=93=96" src=3D"f214d2f01ae418dda3471d0cf427f=
+e12" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(bl=
+ue star)"> <strong><u>Story:</u></strong><u> </u></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir hist=C3=B3ria&gt;</sp=
+an></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Objetivo:"><img class=3D"emoti=
+con emoticon-blue-star" data-emoji-id=3D"1f3af" data-emoji-shortname=3D":da=
+rt:" data-emoji-fallback=3D"=F0=9F=8E=AF" src=3D"cb92e094d28136f64f3cc57887=
+cc89e3" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=3D"=
+(blue star)"> <strong><u>Objetivo:</u></strong></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir objetivo da hist=C3=
+=B3ria&gt;</span></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Regras:"><img class=3D"emotico=
+n emoticon-blue-star" data-emoji-id=3D"2714" data-emoji-shortname=3D":heavy=
+_check_mark:" data-emoji-fallback=3D"=E2=9C=94" src=3D"d72a6d435f3cbf3c3817=
+322e6d470d8a" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" a=
+lt=3D"(blue star)"> <strong><u>Regras:</u></strong></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir regras de neg=C3=B3ci=
+o&gt;</span></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Requirementcriteria:"><img cla=
+ss=3D"emoticon emoticon-tick" data-emoji-id=3D"atlassian-check_mark" data-e=
+moji-shortname=3D":check_mark:" data-emoji-fallback=3D":check_mark:" src=3D=
+"bd5fc7e31954f87cbba442688ce60262" width=3D"16" height=3D"16" data-emoticon=
+-name=3D"tick" alt=3D"(tick)"> <strong><u>Requirement criteria:</u></strong=
+><u> </u></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir crit=C3=A9rios de ace=
+ita=C3=A7=C3=A3o da hist=C3=B3ria&gt;</span></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Partitioning:"><img class=3D"e=
+moticon emoticon-blue-star" data-emoji-id=3D"2702" data-emoji-shortname=3D"=
+:scissors:" data-emoji-fallback=3D"=E2=9C=82" src=3D"aa8c22e4e7932d810aff76=
+239e583965" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=
+=3D"(blue star)"> <strong><u>Partitioning:</u></strong></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir tabela de particionam=
+ento com vari=C3=A1veis e casos de teste, juntamente com link do Google Dri=
+ve&gt;</span></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-RequirementTraceabilityMatrix(=
+RTM):"><img class=3D"emoticon emoticon-blue-star" data-emoji-id=3D"1f500" d=
+ata-emoji-shortname=3D":twisted_rightwards_arrows:" data-emoji-fallback=3D"=
+=F0=9F=94=80" src=3D"25cca783b79778551298f3e1333ad5e8" width=3D"16" height=
+=3D"16" data-emoticon-name=3D"blue-star" alt=3D"(blue star)"> <strong><u>Re=
+quirement Traceability Matrix (RTM):</u></strong></h3>
+<p><span style=3D"color: rgb(255,86,48);">&lt;Inserir RTM juntamente com li=
+nk do Google Drive&gt;</span></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Bugsfound:"><img class=3D"emot=
+icon emoticon-blue-star" data-emoji-id=3D"1f41e" data-emoji-shortname=3D":b=
+eetle:" data-emoji-fallback=3D"=F0=9F=90=9E" src=3D"48cb302d8e71019fdea99c8=
+693996acf" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-star" alt=
+=3D"(blue star)"> <strong><u>Bugs</u></strong><u> found:</u></h3>
+<p></p>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Rangeofseverityandoccurrance:"=
+>Range of severity and occurrance:</h3>
+<p>5: High</p>
+<p>3: Medium</p>
+<p>1: Low</p>
+</div>
+</div>
+<div class=3D"table-wrap">
+<table data-layout=3D"wide" data-local-id=3D"714d5e2f-1d93-4471-b259-d07089=
+77e040" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 48.0px;">
+<col style=3D"width: 48.0px;">
+<col style=3D"width: 196.0px;">
+<col style=3D"width: 140.0px;">
+<col style=3D"width: 79.0px;">
+<col style=3D"width: 89.0px;">
+<col style=3D"width: 68.0px;">
+<col style=3D"width: 73.0px;">
+<col style=3D"width: 65.0px;">
+<col style=3D"width: 82.0px;">
+<col style=3D"width: 72.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>#</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>TC</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Bug</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Gherkin</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Severity (S)</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Occurrance (O)</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Impact (SxO)</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Priority</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>Status</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>1=C2=AA homolog</strong></p></th>
+<th data-highlight-colour=3D"#ffc400" class=3D"confluenceTh"><p style=3D"te=
+xt-align: center;"><strong>2=C2=AA homolog</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">1</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">2</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">3</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">4</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;">5</p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+<td class=3D"confluenceTd"><p style=3D"text-align: center;"></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p></p>
+<h3 id=3D"Homologa=C3=A7=C3=A3ohist=C3=B3ria-Attachments:"><img class=3D"em=
+oticon emoticon-blue-star" data-emoji-id=3D"1f4be" data-emoji-shortname=3D"=
+:floppy_disk:" data-emoji-fallback=3D"=F0=9F=92=BE" src=3D"c888c9b9dc6968a8=
+7e0208fd4ee0a8ad" width=3D"16" height=3D"16" data-emoticon-name=3D"blue-sta=
+r" alt=3D"(blue star)"> <strong><u>Attachments:</u></strong></h3>
+    </div>
+</body>
+</html>
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/aa8c22e4e7932d810aff76239e583965
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEVHcEzdLkTdLkTdLkTdLkTd
+LkTdLkTdLkTdLkTdLkTdLkTdLkTdLkTdLkTdLkTdLkTdLkS7bH2ZqrWZqrXM1t3M1t3VgpHbN0ym
+k6CZqrWZqrXM1t3M1t3QtL6ZqraZqrXM1t3M1t2ZqrXM1t2qi5mks76+ytLYQFSpuMLJ0tqpjZvQ
+r7qZqrW3xMzM1t2ZqrWcrbjM1t2rusPCztbM1t2ZqrXM1t2ZqrXM1t2ZqrXM1t2ZqrXM1t2ZqrXM
+1t2ZqrWkDdZ+AAAAQHRSTlMAMIC//89QrxCf3+8gQI9gcP/fEBDf/////4CA///vICDvn5//////
+///Pz3D/cL//v+f/j49AQGBgr6/PzzAwoq4bswAAAvdJREFUeAGEU+GahCAIXBENM/Pe/2nvLmk/
+B9x2/kXjMAC8JgSK/6Dw+oJnYoh8I+UnmZz4RlxIEc/Y5JOMbEAk+78wYv9QX9gNsXg/iHqsdI7q
+iAR59HHJLZ/KTbKoKynx/CMWJc7e42idDLbaO73QqSaUqM8mwybQB98WpzzuaGDikWmKKpX1RLpt
+GYEwPhszFtOhsRkgjaVchOaLIBQiX3C7QiiE6dNVLcTkqiN5k0ZolZ1WIcBXR5nVkjHE+clR9Yzm
+1pZGpPl8dTk1XKUqaAiG76dG8AaOmIBj84nZo+BPojJaknfAn0ywt9ahIQpyAVt/9K3t8D1QwSG0
+u+u3PwkuY21/eEK/3xhPh7Zxw33YlRSJSuUJv83W5fbqMBAE8MHdNW3wv+Hu9v5vVbsJJxx6CMu1
+33eWTmYrhWIJKFeqykMvEQyKJ3wyDkVA/lpRqzNmACbnjVr4kVQAdwIRnzms2Wp3uM+kiDLHE88+
+muPo9jh/PCkbxyOZhPyjoHv6H8z1yT0N92yD8tITGfiJR4O2fMCZmgoXmOeL/1INpzJOX/mgLRqH
+nsw38/yIOf3+dwYEA+bpc2kIihFzjfnNBCRTZpv1uTQHTavpXlB/PPaGddogGjnVj2U+GYwS7qs/
+EwHnoCst+JfYpU4Zb6jwJXMt+QJvMDnnn95d8sUMkJU7zj7/2HP69lE1S6BaccmextYganPJO/IW
+aOZcsIM5piDZqMEcW1r1ajBHEQQTLnSaTBiRqhc2WyY0S29UvwLWTFjTq6+UgVKRCS1y9RvYbuGm
+1OpXcN3CbSnVe8EcpSJpBXZqMDXcnlL9CtKasALmfTA1nPF69TKYGq4FPQcxx4TCEIOOL1Z/wp3z
+aytwEoMuuHMVg87a1ctgPuH2+tWrwWQ4/RUwfYMp4Qzt6mUwn3AtzeplML9wR83qZTDfcFetEzLh
+y9A6JVPj02yqM2in8WnWamqsUrmj8Wk20tkkU+ebc6qzSD3fYEq4Lp5a7fDUfo3/nwVQGnWHZY8i
+mgAAAABJRU5ErkJggg==
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c888c9b9dc6968a87e0208fd4ee0a8ad
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAS1BMVEVHcEwxNz0xNz0xNz0xNz0x
+Nz0xNz0xNz0xNz0xNz0xNz1VrO7h6O1+hIpTpePL0tdRndjW3eKUm6A/Y39BaoozPkhzeX+fpqs8
+Qkhju1jkAAAACnRSTlMAQO+AUBC/359gaxWCaQAAAMJJREFUeF7t2MsKhDAMhtGoram/97m//5OO
+mykVLBgNzMDk22VzIKtAaMlXjGNxQ0muxPGCj06BU4UIMXSkZgO4dLt6rqR6A+p29kolCCDE1nPQ
+ghC0IAQtCE4LYi0IBhmUZpBBO8pD8nN0yUDy/hC6Da2g4ZaDrq2wawaapNCUgVpx95+DMqt14r4A
+GWSQQQYZZJBBo9QZVxDHoZdCj8SpqUKsnyXM3COpIV9CISYiB4UKWioYJyvd5z1W40RceSJ6A3RD
+2qmpnYlRAAAAAElFTkSuQmCC
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/bd5fc7e31954f87cbba442688ce60262
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AABuugAAbroB1t6xFwAAAVlpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1s
+bnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IlhNUCBDb3JlIDUuNC4wIj4KICAgPHJkZjpS
+REYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMj
+Ij4KICAgICAgPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIKICAgICAgICAgICAgeG1sbnM6
+dGlmZj0iaHR0cDovL25zLmFkb2JlLmNvbS90aWZmLzEuMC8iPgogICAgICAgICA8dGlmZjpPcmll
+bnRhdGlvbj4xPC90aWZmOk9yaWVudGF0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAg
+PC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KTMInWQAAArRJREFUOBGVU89LVFEU/u69b37p6MykZpoY
+I0VZEgm6CGoxi0L/gDCmhQtBGGzTJiiMDCJbtKtW0SL6vShaRLXILLCFVEg/FkWlCFJGjT9mxvS9
+effezr0zDrjswp2577z3nfOd736HwayREU5b2fP5o10QfACMpaB10sYYm6HzOKS6juF7b22sjGEb
+wBfSVxAQQ7SBogR82mY59LweK8qrOH3nuI1TEmYP5mf02FNEQz0orBkmBinoJdd0iDOu6oUjZ/2i
+KEZDHAX3GU7d7qVXoNS0TOWacJrALhiccpzwGgkmsOSvsoWlr0KFYgj5ypPR8C4cbG/A2McnDKbn
+UOAN0VUEZoSpsEowjkU3j77mDvR39eDcq7uYXPmtIzyoVx3O4Ra7uRWM+iOUNGADauGGBJDgRNDN
+YvhwP3r3HUBTdZx08ViEc2k1IbE5IVNGMOpVxGzFHOYKP7DbCWM6N4czXWl0tO7Ai0+TeDQ9jrZI
+AgtKCisyYR1CJo3atYzzZa+AgW3daE004uy7B0AwikzqCDzp48TYDaCqGVnlG3K8fEPJEleKbCba
+ucIs+jpP4tDe/fD8Ippr6tAUr8eticf4MD+F7Zva8U26JkFlMVxMf4YQO2ukVnnp8c7qOjwfGEVt
+VZSKSORWC2i8PIiYCGOFYKZZaleRNzik/MLpadwIktdKbqW+pxa+I3P/EpTWCAeCuPbyIbC2iLhw
+4JfApnpJRMIKpPb8ItsOMqVZTku0hRNsYv49eM5FNreIzOubqK9qwE9VdqW5aNirZiRkpnTnJSMN
+MTISEQy28ACb+/sH8JZRF0siq0tjQjDD30M0HEJ+zVq6Ypp1K1MSRSXkFu6ICN3MjPQM5Yq9CbzB
+ymYKufnCepuyaiNOJBiY53odbIbJxuy/qVyeA4MtMSiPpk30n+P8D1M+Ld4+I3biAAAAAElFTkSu
+QmCC
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/25cca783b79778551298f3e1333ad5e8
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAQlBMVEVHcEw7iMM7iMM7iMM7iMM7
+iMNHj8c7iMP////a6fSFtdrn8PhsptJgns7z+Pu20umdxOHO4fCRvN1Ul8upy+XC2uwUyXweAAAA
+BnRSTlMAv+9gIM+kpfmZAAABfElEQVR4Xu2Y2a7CMAxEW0ptZ+kO//+rV4AYtepDdDOW4IF5bXWU
+TLwkbh7qWiXUds1L115J9dcn56K0Lg9Srw7qm6ZTF3VN6wNqG3XSD/RWECeQjYMTyMboBDKbvUA2
+iRPIgjiBYDkNsjEWQPjxHg9GSLyPdtBcBIE1KzQfKbC8CDp6ugUAzp/LIHg6nJaDzyUQlERVkvEg
+y6qLmRFbw9GsAFSZjZ3J2aDy8UM5vnyJqpOBGnMxIM+SYGZJdds5Upcikp4LumE9Upu02ZLuHMr1
+ZWRZVeObsxCFbRDVgAVxpRZWB7L4w+pItqP0Pm3hGmRGNigHmmA1B0IQJeVACKIb2fsRRBvX+2F1
+IHs/KmPken+2fRDl6qSVdLB6qi0jEmxvtdQVNpRaRPX671JrEBxC0lX1fmhFaBLtCJUxcQ0SJT+S
+LRt/LiwobIgFYmvERYu++vGX0c9fj4N81xNi/q5n1jh8/in6e/e7DVncxj5egyi30ZjfsM5tfPgH
+vEeT4Vn3MacAAAAASUVORK5CYII=
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/d72a6d435f3cbf3c3817322e6d470d8a
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAM1BMVEVHcEwxNz0xNz0xNz0xNz0x
+Nz0xNz0xNz0xNz0xNz0xNz0xNz0xNz0xNz0xNz0xNz0xNz3UIFXbAAAAEHRSTlMAQI8gz4C/7xAw
+31Bgr59wPZVHyAAAAUpJREFUeF7Nl1uKwzAQBCNbr5Flee5/2v0Iy1rbHwo9Q5I5QOFCULQfX3Mh
+hN0Bk4qq6rCiatTnFbGBNv29ZuIE/btuAbUb6DRwkt4u8xxRJ1CcQJuPmKqwnL04fVCeOK2ynGsW
+O5zETiexQosdTmLVS+ycxXYnsctJLPM1cxILs1iixdrEiU5iKj410+RUs+hVs+AkttnE/GsWnGo2
+Pl6z6ytr5p/p/t6a8ZmWlJKsarbOtORno2RRs5WYFJimXM0ivAWX6bB+Vcz0ulWd22YI0sFlGkE6
+2JodCiQy0+0/KdZ7zV7PdFAkcaPzKEjiaiZAasKNTiQV4TItEUnc6KxI6lymkaSdG501A4kdnQMA
+WDM7qez0rjNtsw4AqBlJ4kdnL5wYnhSbGJLs20yaOo3OCpnmSSBGk0CMvQHZNf4G5fqw3p5y3l5/
++B82A1HQUtmFVwAAAABJRU5ErkJggg==
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/cb92e094d28136f64f3cc57887cc89e3
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAwFBMVEVHcEzM1t3M1t0AAADM1t3M
+1t3M1t3M1t3M1t3M1t3M1t0AAADM1t3M1t1NOjUAAADBaU8AAAAAAADBaU9ZMCSOVEOUnKEAAAAA
+AADM1t3dLkRfnMq7zNn7nTWlTXB1p85RlMf/rDO/P1xSe7HnUj+txdg7iMOWudNFgrvplD1kcqPB
+aU/yfTl4ZpPTNksNExcWM0lFW2y1RWSWVXzwdTomKCmEr9CEio80d6ugqK3QcEnYgkVIJx55QjHh
+PkLXVEaQXWKtAAAAGHRSTlMAUIC9j9/GIJ/vYHlAryhQteoQYM/vr5/xm4VTAAACyklEQVR4Xq2Y
+h5ajMAxFQyAEUmdmm+ktvWd62fL/f7VzsjEYCTmY7PuAe/SeJbeWRN2eYXacszqm0eu2GkizOg5S
+x9LUKF3DdgjZRv26BkNHquGgXjWWc1FWjarawBRhsH2pHNOpKVNalGY7tWVrElsA4M8jb3aWF819
+gCLtWWVKFM+A4qjMsmpwprwUIG96kWTRGBplyfN5nkn1LMtJE8IB2WDFgj8N9I9d2IIAOcku91PR
+h/NZLc2LzsQBYU62DVP3pDTcZgSpDYxhX6vQLSlciaRphTmrirO6d5HuRdQU9cDA4SrWa/HgVuph
+USTucPH9aYj7Z5G6hNIF7qfhOSFsLNu5pHYZNvcvJYODvNwX4ABS7s7jIOMEskFByBd2B0uyT8OB
+ChJznmyC5FPBZiImjkrShLX383UXMEGSKxBQeRf4QgfwczDioKJ/HpOSHot+4qCIn5zCmsWooE0C
+tEElxcW69aCzENeDawqht17LANOa5fkkFcpzysDsGi0TRLTloKAKFHDQFoRk5ll73BkqaCkiJ8Cb
+l6fN0+KmU5j0+3q9xHmnPCSeNgJBZ8v1p5bYW21QIoBEUmNQ8lEm/T6DFmDcaBBBUreGSA1BASYp
+hA2WH5Po5Zc2JCbRDSkdEUyiR0Q6tJj0hxxa+TaCSTtyG5FvbJj0k3HtD0dhY1PZat85qWAdedZq
+m/8vRGL7N775qxxHrILETkVpagckqyQ9+Y6teGQzimQoXiIYRRopXmsYRdIVL1qMJPXB1c+XX/0Y
+SbpVu4wymjRWuh4zmjRWurAzmjRWekLsSZJe9aiZxhTowAiSfqf2zHpliPRV1/X+SPnhd8CkL42e
+oq8MkW6aPY6PJdI3DlJ/rvtPpcG4Wa9HDT8Q3vZgVht/abxAkPonCybp1337vOTu+ld+RH2/Pe8d
+o2u/xu5+8EG9+rNu1O+Dwfhv34d/AQRp7/tgUvZrAAAAAElFTkSuQmCC
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/48cb302d8e71019fdea99c8693996acf
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAkFBMVEVHcEwxNz0xNz3dLkQxNz0x
+Nz3dLkQxNz0xNz0xNz0xNz0xNz3dLkQxNz0xNz3dLkTdLkTdLkTdLkTdLkTdLkQxNz3dLkTdLkQx
+Nz0xNz3dLkTdLkQxNz3dLkRQNT7ML0MxNz3dLkQ8Nj2nMUJcNT+9MEOHM0FHNj5RNT5yNEDSL0TI
+L0N8M0CyMEKdMUGSMkG5/HLFAAAAIHRSTlMAMCC/n4AQ7xBg38/PUL/fQHCA769Aj5+PcDAgr1Cv
+n8rphVgAAALlSURBVHhe1ZfbkqIwEEBRkAgqoqhzn+1wx8vM///dSgqaEJtIeNna82JCySk66aaJ
+pcUBcKTRZBZwZyGNpsJqEZNGE1mCQBpNF8lMF3mg4E3SzFfwwGpu7pkxIGAz4/XxgcRfGoocIDFO
+yzkMYrZMbzDIm5EogEECIxFo+CeiDWjYjM+hT9DyOTKXZj5IFPjT4c9MaiNO8yTjnFf1pLoPsiRP
+Y32leIx5fU9xvfGGrJ5n7ex2LdCE9/b2qIl7Wdd8mnCJWiTPkxQAVu3/23tRtMEaK/FhFBFyK7Hm
+Nr2q8bEYjwC/HEFRwRV+AY5Y3H6v1JmILShwNcjQkKwIRGSs90LYtM3mWJ65VpTHAHFej87lUbQp
+XBWMjd0j/UYPKTqXICjF5LvZYl99zQeW28WVFABFoohyaMhFdO5y9dASxBXn1HlAkPRFMTTEYvon
+EA2hn861KOVIWxh9ESBckGJq9oOT8gca9KIb1escSDktokMTpFTPfP3hdGj0Ygt+yN4bcf5ksTlu
+f0NEeUKO4PYPJSQSEqI9p0ARzZ4Q2VNENiHaThGtCRGfIuLKB6f030tVr2d1eRSdU4BUrWpoWFhK
+smYxCOLsQZRiGREiUESXLnkvqggEeFlJdiW0CpCKFnFatLCQ5joS06Ep6Tq0ayBBL7ZcQNNEdElT
+ma0Ljd4qOrMP9GLrRQeqaKnt14dGF234JCHJt1VoEehLhH5bWRS2edHalMe7mouuHuGBWCeiw47B
+o85miUZEbkSCfY3otHTvJ1MDO616qHJsTTsiktVePRy8XkF8FoaaBkmUT7gUplflUMXuZlvXskGi
+2fs56x+8nPZk8BGNF0Uf7VnDwRXqTk+78aHtuvMYiqTnO4xd7BdpVaSWhO9cdz1u+9euei+CphEJ
+iR5EY9KUCHqMTChCKA/NSS86WaP52g6Ltl+WAe4+QhEDYDiJ9q5lhrtrn0r65tnuUGPC++6wbTLv
+5S457N6t/4m/5HR+vEye0MAAAAAASUVORK5CYII=
+------=_Part_10_744796580.1664396091318
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/f214d2f01ae418dda3471d0cf427fe12
+
+iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAMAAABiM0N1AAAAt1BMVEVHcEyZqrWZqrUiZpnM1t3X
+3+UiZpkiZpkiZpkiZpnh6O3h6O3M1t0iZpnM1t3M1t3M1t3h6O3M1t3h6O3h6O3h6O3M1t3h6O3h
+6O3M1t3M1t3M1t3h6O3h6O3M1t3h6O3h6O3M1t2ZqrXM1t0iZpnh6O0pLzOrusPG0dimtb/Y4OZM
+VVy0wcqpuMKKorKLm6UkVXlHe6Kwvce2w8y+ytLCzdXJ09vd5OooNkC5xs6drrmjsr3P2d+qZPM3
+AAAAInRSTlMAUN+/vxDvzyBgv0BAEFDfgJ+f31CAcK9gIGCv7yDvz3DPt0NtjwAAAV1JREFUeF7t
+1sdywjAUhlFhA0L0ml6v5G56J3n/54pkQ2KNx3KCySITfcu7OHOXP/rFdLrHl7rFG/QaMdDsdyiv
+fHX7E6Vyw5VT1xV+uKefle8q32SGvQcr2TNCrzTZU7+dQzQaw1HdSjXq0lTlbrvZTAslA8DxrYwG
+HZqR6wEYpYQDAAsrO5rdGAC+JIND/nmQyyHjyNQw8KzzIAo8XIucKisKsaqQMCsOMYwQYZeAGEHm
+ZSATsctA7G9DGtKQhjSkIQ1pyF8vHMcJ3RO0dzzPGy/dXMiXFQ+OHdYCWh7g2JtsuTIkjdGt60Cy
+0KLyYbzfSGNUhuJ5vH1fCUVuFaZOXrjaxPNYhgokQRM1MJ2qnUkEmRyaq6EgUEPzaPoRJiTFT9PA
+tgPFTxPhMCLmsbKZHTVjynA82NXSzrZ3OU41nv6YFQwLR0TMIoxJUH6tz29xCxWLRBQm6F+m030A
+IgPqBHFyKJ0AAAAASUVORK5CYII=
+------=_Part_10_744796580.1664396091318--
